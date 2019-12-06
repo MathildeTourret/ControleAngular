@@ -1,0 +1,62 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "Général"
+    },
+    {
+      "id": 2,
+      "name": "BDE"
+    },
+    {
+      "id": 3,
+      "name": "Vie étudiante"
+    },
+    {
+      "id": 4,
+      "name": "Programmation"
+    }
+  ],
+  "messages": [
+    {
+      "content": "mmm",
+      "user": "mmmm",
+      "id": 1
+    },
+    {
+      "content": "bla",
+      "user": "mmmm",
+      "id": 2
+    },
+    {
+      "content": "blamamamama",
+      "user": "mmmm",
+      "id": 3
+    },
+    {
+      "content": "plplplpl",
+      "user": "mmmm",
+      "id": 4
+    },
+    {
+      "content": "plplplpl",
+      "user": "mmmm",
+      "id": 5
+    },
+    {
+      "content": "plplplpl",
+      "user": "mmmm",
+      "id": 6
+    },
+    {
+      "content": "rrrr",
+      "user": "rrr",
+      "id": 7
+    },
+    {
+      "content": "rrrrjjj",
+      "user": "rrr",
+      "id": 8
+    }
+  ]
+}

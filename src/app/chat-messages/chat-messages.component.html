@@ -1,0 +1,10 @@
+<div>
+    <p *ngFor="let message of messages">
+      <span>{{message.user}} said : </span>
+      <span>{{message.content}}</span>
+    </p>
+</div>
+<div>
+    <input type="text" placeholder="Ecrivez votre message" [(ngModel)]="content">
+    <button  type="submit" (click)="sendMessages()">Envoyer</button>    
+</div>
